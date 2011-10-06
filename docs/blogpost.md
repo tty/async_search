@@ -30,12 +30,9 @@ We cover the following subjects:
 <a name="sample_application" ></a>
 ## Running the Sample Application
 
-Clone the source from GitHub[^repos]:
+Clone the source from GitHub:
 
-     git clone git@github.com:tty/classifieds_search.git
-     cd classifieds_search/src/async
-
-[^repos]: this repository is not publicly accesible
+     git clone git://github.com/tty/async_search.git
 
 And start the application:
 
