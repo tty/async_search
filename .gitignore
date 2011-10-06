@@ -1,0 +1,11 @@
+*.beam
+rebar
+*~
+*.orig
+.*.swp
+rt.work
+.hgignore
+.eunit
+erl_crash.dump
+ebin/async.app
+/deps

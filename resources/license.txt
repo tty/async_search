@@ -1,0 +1,20 @@
+All the content contributed to Stack Overflow, Stack Overflow Meta, Server Fault, and Super User is cc-wiki licensed, intended to be shared and remixed. We even provide all our data as a convenient data dump, seeded by us.
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+But our cc-wiki licensing, while intentionally permissive, does *require attribution*:
+
+> Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). 
+
+So let me clarify what we mean by attribution. If you republish this content, we *require* that you:
+
+   1. Visually indicate that the content is from Stack Overflow, Stack Overflow Meta, Server Fault, or Super User in some way. It doesn’t have to be obnoxious; a discreet text blurb is fine.
+   2. Hyperlink directly to the original question on the source site (e.g., http://stackoverflow.com/questions/12345)
+   3. Show the author names for every question and answer
+   4. Hyperlink each author name directly back to their user profile page on the source site (e.g., http://stackoverflow.com/users/12345/username)
+
+By “directly”, I mean each hyperlink must point directly to our domain in standard HTML visible even with JavaScript disabled, and not use a tinyurl or any other form of obfuscation or redirection. Furthermore, the links must not be nofollowed.
+
+This is about the spirit of fair attribution. Attribution to the website, and more importantly, to the individuals who so generously contributed their time to create that content in the first place!
+
+Anyway, I hope that clears up any confusion — feel free to remix and reuse to your heart’s content, as long as a good faith effort is made to attribute the content!
